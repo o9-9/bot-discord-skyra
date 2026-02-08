@@ -489,7 +489,6 @@ export const TLDs = [
 	'gold',
 	'goldpoint',
 	'golf',
-	'goo',
 	'goodyear',
 	'goog',
 	'google',
