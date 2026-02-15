@@ -1252,7 +1252,6 @@ export const TLDs = [
 	'wine',
 	'winners',
 	'wme',
-	'wolterskluwer',
 	'woodside',
 	'work',
 	'works',
